@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : STM32F030CCT6.LibPkg
+
+Section : C:\Users\jcala\Desktop\Curso de Altium\Proyecto\Work\IEEE\Cerradura lector huellas\V0.1\STM32F030CCT6.lia
+    Section : PCB Library - STM32F030CCT6.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token STM32F030CCT6 On Line 162
+            Warning - 1 : Skipping Token attachedSymbol On Line 669
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - STM32F030CCT6.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token layerContents On Line 152
+        EndSection
+
+        Section : Generating SCH Library - STM32F030CCT6.SchLib
+        EndSection
+    EndSection
+EndSection
